@@ -51,9 +51,13 @@ RegisterNumber: 25010152
 
 
 **RTL Schematic**
+<img width="1138" height="665" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/bdb3ad01-98c0-467c-8698-c197cc6a6517" />
+<img width="1131" height="440" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/fd11da1f-b012-43f9-a904-9fba54a90da8" />
 
 
 **Output Timing Waveform**
+<img width="1037" height="432" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/f31f2e2b-cdcd-4467-bd8c-b5e2ea0154f5" />
+<img width="1194" height="442" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/6ddbadac-c335-4214-835a-8c678f77c1e5" />
 
 **Result:**
 
